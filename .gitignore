@@ -1,0 +1,12 @@
+/.git
+.vs
+/ObjDir
+/packages
+bin
+obj
+
+*.user
+*~
+*.bak
+*.log
+*.tmp
